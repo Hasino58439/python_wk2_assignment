@@ -24,3 +24,5 @@ index_of_30 = my_list.index(30)
 print("The list is:", my_list)
 print("Index of 30 is:", index_of_30)
 
+
+
