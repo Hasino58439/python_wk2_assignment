@@ -9,3 +9,4 @@ discount_percent = float(input("Enter the discount percentage: "))
 final_price = calculate_discount(price, discount_percent)
 print("Final price:", final_price)
 
+
